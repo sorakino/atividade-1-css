@@ -1,0 +1,29 @@
+.title-main {
+    text-align: center;
+    font-size: 30px;
+}
+
+.title2 {
+    text-align: left;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.fundo {
+    background-color: blue;
+    color: white;
+    height: 100px;
+    width: 390px;
+}
+
+.background-black {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+li {
+    text-decoration: underline;
+}
